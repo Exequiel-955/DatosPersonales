@@ -1,0 +1,7 @@
+Nombre: Camacho Maia
+Dni: 451857
+Edad: 15 años
+signo: Capricornio
+Cuadro: Club Atletico Talleres lo más grande de Córdoba
+Altura: 1,54
+Peso: 47
